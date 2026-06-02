@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.env
+.venv
+venv/
+venv\
+.env/
+.git/
+.gitignore
+__MACOSX/
+Thumbs.db
+.DS_Store
